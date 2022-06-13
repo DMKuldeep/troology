@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/troology/static/css/main.01ef4aaa.css",
+    "main.js": "/troology/static/js/main.8eca41ee.js",
+    "static/js/787.e3918126.chunk.js": "/troology/static/js/787.e3918126.chunk.js",
+    "index.html": "/troology/index.html",
+    "main.01ef4aaa.css.map": "/troology/static/css/main.01ef4aaa.css.map",
+    "main.8eca41ee.js.map": "/troology/static/js/main.8eca41ee.js.map",
+    "787.e3918126.chunk.js.map": "/troology/static/js/787.e3918126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ef4aaa.css",
+    "static/js/main.8eca41ee.js"
+  ]
+}
